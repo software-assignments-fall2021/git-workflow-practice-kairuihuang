@@ -1,2 +1,21 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+A simple project to practice a few git/github workflows.
+Below is a brief summary of an article about how
+context switching in software development affects productivity.
+
+### Software Development: Productivity and Context Switching
+
+* Author: Mayumi Nishimoto
+* Date: May 18, 2020
+* Link to [article](https://mayuminishimoto.medium.com/software-development-productivity-and-context-switching-66f99b388033)
+
+Nishimoto examines the effect of context switching arising from multitasking from a software developement perspective.
+She notes that certain companies might prioritize, or view positively, the ability to multitask, despite evidence
+that people tend to be less productive when frequently switching between tasks. She consults Sophie Leroy, a professor
+at New York University (at the time) for psychological evidence, which reveals key characteristics such as
+*attention residue* (attention remains on the previous task despite already starting a different one), caused by
+an inate desire to complete unfinished tasks. She also refers to Cal Newport's book *Deep Work*, noting deep
+concentration and focus is critical for learning hard and complex skills. When applied to the software development
+domain, she notes that an engineer who works on a team that requires a wide breadth of knowledge and skills will
+likely context switch more frequently. She argues that the extra time spent setting up, learning, and switching
+could be better spent in an environment that fosters deeper focus and concentration on a single task or problem.
